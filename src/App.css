@@ -2,9 +2,7 @@
   margin: 0;
 }
 .App {
-  text-align: center;
-  color: white;
-}
-.App h1 {
-  color: #e50914;
+  background-color: #141414;
+  /* text-align: center;
+  color: white; */
 }

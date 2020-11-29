@@ -1,10 +1,10 @@
 body {
-  background-color: #141414;
+  /* background-color: #141414; */
 }
 .row {
   color: white;
   text-align: left;
-  height: 220px;
+  /* height: 420px; */
   overflow-y: hidden;
   width: 100%;
   margin-left: 20px;
@@ -15,7 +15,7 @@ body {
 .row_Large {
   color: white;
   text-align: left;
-  height: 490px;
+  /* height: 490px; */
   overflow-y: hidden;
   width: 100%;
   margin-left: 20px;
@@ -30,7 +30,7 @@ body {
   padding: 20px;
 }
 .row_posters::-webkit-scrollbar {
-  /* display: none; */
+  display: none;
 }
 .row_poster {
   object-fit: contain;
@@ -47,3 +47,8 @@ body {
   max-height: 400px;
   padding-bottom: 20px;
 }
+/* .video {
+  height: 100vh;
+  z-index: 2;
+  width: 100vh;
+} */
